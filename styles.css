@@ -46,7 +46,7 @@ p {
 
   .flex-container .flow {
     display: flex;
-    flex-direction: row;
+    flex-direction: column; /* changed 'row' to 'column' on 11/04/23 */
   }
 
   .flex-container .flow > section {
